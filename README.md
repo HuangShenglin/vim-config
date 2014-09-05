@@ -6,4 +6,4 @@ personal vim config
 
 INSTALL
 
-ln -sf .vimrc $HOME/
+cp .vimrc $HOME/
